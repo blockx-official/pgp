@@ -1,0 +1,5 @@
+# pgp
+Official PGP public keys for BLOCKX
+
+blockx.key 1FF80110BA7F1081F574BAB83BE9D8B0494656E7
+
